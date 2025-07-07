@@ -1,6 +1,6 @@
 ---
 
-### 🔸 **CHISMOSA ELITES (Updated with User Handles)**
+### **CHISMOSA ELITES (Updated with User Handles)**
 
 | Name                                | Faction         | Archetype                          | Neurotype  | Description                                                             | Sims Traits                         | Aspiration          | User/Handle                                     |
 | ----------------------------------- | --------------- | ---------------------------------- | ---------- | ----------------------------------------------------------------------- | ----------------------------------- | ------------------- | ----------------------------------------------- |
