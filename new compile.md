@@ -1,15 +1,14 @@
----
-
-### CHISMOSA ELITES (Updated with User Handles
+### 🟣 **CHISMOSA ELITES (Updated with User Handles)**
 
 | Name                                | Faction         | Archetype                          | Neurotype  | Description                                                             | Sims Traits                         | Aspiration          | User/Handle                                     |
 | ----------------------------------- | --------------- | ---------------------------------- | ---------- | ----------------------------------------------------------------------- | ----------------------------------- | ------------------- | ----------------------------------------------- |
 | Akiro Miguel Auguis Covington       | Chismosa Elites | Delulu Main Character; Self-Insert | ADHD       | Fantasized a whole love story with Nate. Emotional, artistic, dramatic. | Over-Emotional, Music Lover, Clumsy | Musical Genius      | @cyberkiro / @kiro.m4a                          |
-| Damian Vincent Monteverde Covington | Chismosa Elites | Rational Twin with a Mean Streak   | ADHD-coded | Constantly arguing with Kiro, but also protects him.                    | Genius, Outgoing, Hot-Headed        | Friend of the World | @centavovinnyyy / @dam / @heyimdam / @dexonic_  |
+| Damian Vincent Monteverde Covington | Chismosa Elites | Rational Twin with a Mean Streak   | ADHD-coded | Constantly arguing with Kiro, but also protects him.                    | Genius, Outgoing, Hot-Headed        | Friend of the World | @centavovinnyyy / @dam / @heyimdam / @dexonic\_ |
 | Ethan Lee Batumbakal                | Chismosa Elites | Loudest Bakla in the Circle        | ADHD-coded | Always screaming in VC, tagadala ng tea. Close with Sandra.             | Outgoing, Goofball, Cheerful        | Joke Star           | @catethan                                       |
 | Sandra Garcia                       | Chismosa Elites | Queenpin ng Barangay Tea           | NT-coded   | Old soul, energy of a high school registrar. Matriarch ng chismisan.    | Insider, Neat, Perfectionist        | Leader of the Pack  | @maritessandra                                  |
-| Mavius Ramirez                      | Chismosa Elites | Dry Humored Barista Chismoso       | NT-coded   | Observant, rarely wrong, may side comments for everything.              | Snob, Genius, Slob                  | Fabulously Wealthy  | @mavmavmavius                                   |
-| Nathalie Garcia                     | Chismosa Elites | Cold-Blooded Commenter             | RSD-coded  | Deadpan but delivers some of the nastiest reads.                        | Mean, Calm, Noncommittal            | Chief of Mischief   | @nathalyuhh                                     |
+| Mavius Ramirez                      | Chismosa Elites | Dry Humored Barista Chismoso       | ???        | Observant, rarely wrong, may side comments for everything.              | Snob, Genius, Slob                  | Fabulously Wealthy  | @mavmavmavius                                   |
+| Nathalie Garcia                     | Chismosa Elites | Cold-Blooded Commenter             | ???        | Deadpan but delivers some of the nastiest reads.                        | Mean, Calm, Noncommittal            | Chief of Mischief   | @nathalyuhh                                     |
+
 
 ---
 
