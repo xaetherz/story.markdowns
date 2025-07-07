@@ -29,16 +29,6 @@
 
 ---
 
-Copy! I’ll generate the full **export-ready table** batch by batch with the following structure:
-
-\| Name | Faction | Archetype | Neurotype | Description | Sims Traits | Aspiration | User/Handle |
-
-Batch 1 (Chismosa Elites) is already done. Here's **Batch 2: Afam Arc** ⬇️
-
----
-
-### 🌍 **WIKI EXPORT – AFAM ARC**
-
 | Name                                   | Faction                   | Archetype                     | Neurotype      | Description                                                                                   | Sims Traits                          | Aspiration             | User/Handle                           |
 | -------------------------------------- | ------------------------- | ----------------------------- | -------------- | --------------------------------------------------------------------------------------------- | ------------------------------------ | ---------------------- | ------------------------------------- |
 | Avery Aether Achilles Hawthorne        | Afam Arc                  | Mysterious Smartass; Sad Boi™ | Gifted-Burnout | Reserved, poetic, talks in riddles. Strong connection to Kiro.                                | Loner, Bookworm, Creative            | Renaissance Sim        | @nvraether                            |
@@ -52,6 +42,61 @@ Batch 1 (Chismosa Elites) is already done. Here's **Batch 2: Afam Arc** ⬇️
 | Adelaide Aine Ezaiel Woodland          | Afam Arc (Barangay-based) | Soft Fantasy Girl             | Gifted         | Mag-isa sa park, naniniwala sa fae. Actually taga-barangay.                                   | Creative, Gloomy, Loner              | Bestselling Author     | @eza1el                               |
 | Andrew Joseph Satoru                   | Afam Arc                  | Anime Protagonist Type        | ???            | Mysterious STEM-coded man. Looks like he has lore.                                            | Geek, Genius, Stoic                  | Computer Whiz          | @andrewwsato                          |
 | Alonso Mendoza                         | Afam Arc                  | Prettyboy Cousin              | ???            | Quiet but emotionally intelligent. Art museum-coded.                                          | Creative, Calm, Music Lover          | World-Famous Artist    | @alonsomgg                            |
+
+---
+
+### 🥊 **BARDAGULERAZ (Palengke Queens + Barangay Chaos)**
+
+| Name                 | Faction                  | Archetype                 | Neurotype | Description                                                     | Sims Traits                          | Aspiration              | User/Handle        |
+| -------------------- | ------------------------ | ------------------------- | --------- | --------------------------------------------------------------- | ------------------------------------ | ----------------------- | ------------------ |
+| Aling Lucy           | Bardaguleraz             | Kaldero Sales Queen       | NT-coded  | Laging nakikipagtalo sa palengke. Queen ng kalawang-proof pots. | Hot-Headed, Materialistic, Ambitious | Fabulously Wealthy      | @kalderoqueenlucy  |
+| Aling Sarah          | Bardaguleraz             | Kaldero Snatcher          | ???       | Palengke nemesis ni Lucy. Loud and combative.                   | Mean, Outspoken, Snob                | Public Enemy            | @kalderosnatcher   |
+| Aling Lisa           | Bardaguleraz             | Mediator ng Gulo          | ???       | Laging nasa gitna, umiiyak na lang minsan                       | Good, Squeamish, Peacemaker          | Friend of the World     | @lisaforpresy      |
+| Charlotte Castillano | Bardaguleraz/SQ          | Barangay DJ               | ???       | Emotional support speaker ng kalsada.                           | Music Lover, Childish, Goofball      | Joke Star               | @charlotteskaraoke |
+| Yvo                  | Bardaguleraz             | Loud Barangay Commentator | ???       | Jej vlogger ng barangay. Sumasabay sa kaguluhan.                | Goofball, Insider, Outgoing          | Joke Star               | @itsmeyvowithtea   |
+| Kylie Gender         | Bardaguleraz             | Pabebe Queen ng Barangay  | ???       | Nanay ni Nicole. Makalat pero sosyal.                           | Materialistic, Cheerful, Slob        | Mansion Baron           | @kyliegendered     |
+| Nicole               | Bardaguleraz             | Spoiled Daughter          | ???       | Nasa tabi ni Kylie, laging naka-OOTD.                           | Self-Assured, Snob, Creative         | World-Famous Celebrity  | @nicolegirlboss    |
+| Elaine               | Bardaguleraz/Saling Pusa | GBF na Mukhang Tae        | ???       | Palaging nakabilad ang puday. Pang-R18 mga linya.               | Outgoing, Unflirty, Chaotic          | City Native             | @elainelibre       |
+| Irene                | Bardaguleraz             | Tahimik pero may baho rin | ???       | Minsan lang magsalita, pero laging present sa bardagulan        | Loner, Neat, Clumsy                  | Freelance Crafter       | @irenelytsgo       |
+| Wendy                | Bardaguleraz             | Bestie ni Irene           | ???       | Support character pero biglang may POV minsan                   | Cheerful, Neat, Paranoid             | Friend of the World     | @wendiwendiwow     |
+| Joy                  | Bardaguleraz             | Reaction Queen            | ???       | Pabibo kapag may away, madaldal sa Facebook.                    | Insider, Goofball, Childish          | Neighborhood Confidante | @joyjowaaaa        |
+
+---
+
+### 💅 **POST-SCANDAL RETURN** *(Mga bumalik sa baryo matapos ang iskandalo)*
+
+| Name         | Faction      | Archetype                | Neurotype | Description                                           | Sims Traits                     | Aspiration             | User/Handle     |
+| ------------ | ------------ | ------------------------ | --------- | ----------------------------------------------------- | ------------------------------- | ---------------------- | --------------- |
+| Tammy Wu     | Post-Scandal | MNET-Eviled Idol Trainee | ???       | Naevil-edit sa survival show, umuwi na lang sa baryo. | Outgoing, Perfectionist, Gloomy | World-Famous Celebrity | @woowu          |
+| Jaden Castro | Post-Scandal | Fugitive Twitter Father  | ???       | Nabuntis ang minor, nag alt sa Twitter.               | Noncommittal, Bro, Slob         | Public Enemy           | @jadennotsorry  |
+| Lucas Castro | 👻           | Mas Malalang Nawala      | ???       | Di na talaga nakikita. Bakas lang ng presence niya.   | Loner, Lazy, Absent             | Freelance Botanist     | @castrogonewild |
+
+---
+
+### 🧃 **SALING PUSA** *(Mga Tagalabas, Tagalapit, Tagabantay ng Gate)*
+
+| Name    | Faction     | Archetype                  | Neurotype | Description                                             | Sims Traits                       | Aspiration              | User/Handle      |
+| ------- | ----------- | -------------------------- | --------- | ------------------------------------------------------- | --------------------------------- | ----------------------- | ---------------- |
+| Lizette | Saling Pusa | Tahimik pero saling-tingin | ???       | Nagpaparamdam pag may libre                             | Childish, Slob, Glutton           | Party Animal            | @lizfromsariaya  |
+| Hannah  | Saling Pusa | PTA Energy                 | ???       | Nanay vibes, pero pabibo sa mga chismosa                | Good, Ambitious, Overachiever     | Leader of the Pack      | @hannahcouncil   |
+| Aliyah  | Saling Pusa | Aesthetic Girl             | ???       | Hindi mo sure kung nasa barangay talaga siya            | Neat, Creative, Music Lover       | Painter Extraordinaire  | @aliyah\_wuzhere |
+| Luna    | Saling Pusa | Emotional Support Teen     | ???       | Tumblr girlie ng barangay                               | Gloomy, Art Lover, Vegetarian     | Bestselling Author      | @lunafits        |
+| Emily   | Saling Pusa | Yung Pick Me na Bebe       | ???       | Mahilig magpabebe, friendly sa lahat (kuno)             | Self-Absorbed, Goofball, Cheerful | Popularity              | @emilyyahhh      |
+| Amalie  | Saling Pusa | Quiet but shady            | ???       | Di mo sure kung gusto kanya o sinisiraan ka             | Loner, Creative, Calm             | Neighborhood Confidante | @maliemalie      |
+| Andrei  | Saling Pusa | Totropahin Hindi Jojowain  | ???       | Lagi lang andyan. Walang nambabastos pero may presence. | Neutral, Neat, Goofball           | City Native             | @dreiforfriends  |
+| Juliana | Saling Pusa | Energy ng TikTok Dancer    | ???       | Laging trending pero di mo kilala kung bakit            | Dance Machine, Cheerful, Insider  | World-Famous Celebrity  | @julsjumpscare   |
+
+---
+
+### 🧍 **MISC / SIDE CHISMOSAS & OTHERS**
+
+| Name    | Faction | Archetype          | Neurotype | Description                     | Sims Traits       | Aspiration           | User/Handle  |
+| ------- | ------- | ------------------ | --------- | ------------------------------- | ----------------- | -------------------- | ------------ |
+| Cevion  | Misc    | ???                | ???       | Undetermined                    | ???               | ???                  | @cevioncito  |
+| Rei     | Misc    | ???                | ???       | Undetermined                    | ???               | ???                  | @reirei\_ren |
+| Mitchi  | Misc    | ???                | ???       | Undetermined                    | ???               | ???                  | @mitchiloco  |
+| Yasmin  | Misc    | ???                | ???       | Undetermined                    | ???               | ???                  | @yasminyumz  |
+| Averson | Misc    | Returnee Character | ???       | Biglaan nawala noon, bumalik na | Loner, Calm, Neat | Freelance Programmer | @aversonback |
 
 ---
 
