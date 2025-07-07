@@ -100,3 +100,20 @@
 
 ---
 
+
+### 🧑‍🏫 Classroom Arc (Aether’s Classmates)
+
+| Name                  | Archetype                      | Role Description                                                | Pronouns | Sims Traits                            | Aspiration              | Catchphrase                             | Handle                      |
+| --------------------- | ------------------------------ | --------------------------------------------------------------- | -------- | -------------------------------------- | ----------------------- | --------------------------------------- | --------------------------- |
+| **Ethan Lysander**    | Normal Classmate               | Walang ambag pero present sa attendance. Silent listener.       | he/him   | Neat, Good, Slob                       | Friend of the World     | "Anong homework natin ulit?"            | @lysathan                   |
+| **Aine Martinez**     | Loyal Bestie                   | Ride or die ni Aether. Will slap a bitch for her.               | she/her  | Outgoing, Loyal, Hot-Headed            | Neighborhood Confidante | "Gigil na ako sa kanila, beh."          | @aineainedelasalas          |
+| **Fritz Martinez**    | Protective Kuya                | Older brother ni Aine, quiet but observant. May skincare takes. | he/him   | Family-Oriented, Calm, Perfectionist   | Super Parent            | "Inom ka muna ng tubig."                | @frinitzongfries            |
+| **Louis Chad**        | Racist + Homophobic Bully (🔥) | Laging bida sa GC ng guidance office. Wala nang redeeming arc.  | he/him   | Mean, Hot-Headed, Snob                 | Villainous Valentine    | "Puro woke shit na lang kayo."          | @fuckyouka                 |
+| **Celeste Heller**    | Pick-Me Boy, Bully             | Pick-me who??? Delulu na akala gwapo siya. Bestie ni Louis.     | he/him   | Jealous, Mean, Bro                     | Public Enemy            | "Ew, bakla?! Baka mahawa ako."          | @celestesurfav              |
+| **Maxine Heller**     | Pick-Me Boy’s Ugly Sister      | Mas masahol pa sa kapatid. Parang Chihuahua sa tili.            | he/him   | Mean, Materialistic, No Sense of Style | Chief of Mischief       | "Mas maganda pa 'ko sa iyo by default." | @hey.max                    |
+| **Dylan De Guzman**   | Normal Classmate 2             | Quiet seatmate na minsan nagpapa-kodigo.                        | he/him   | Clumsy, Cheerful, Geek                 | Academic Scholar        | "Hoy pa-scan notes mo mamaya ha."       | @dyylnz.50                  |
+| **Mea Mañozo**        | Bubbly Teen Girl               | Always positive, may glitter glue at any moment.                | she/her  | Cheerful, Creative, Clumsy             | Friend of the World     | "Hiiiii bestieeesss 💖💅"               | @nozo.aem                  |
+| **Nathaniel Verador** | Quiet Love Interest            | Crush ni Aether. Reserved, mysterious, may wattpad vibe.        | he/him   | Loner, Kind, Music Lover               | Soulmate                | "You okay? You don’t have to pretend."  | @tan.sincosthan             |
+
+---
+
